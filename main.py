@@ -48,7 +48,7 @@ bot = Bot(token=API_TOKEN)
 storage = MemoryStorage()
 dp = Dispatcher(bot, storage=storage)
 
-START_ADMINS = [6486825926, 7346481297]  # dastlabki adminlar
+START_ADMINS = [6486825926, 7711928526]  # dastlabki adminlar
 ADMINS = set(START_ADMINS)
 
 # === KEYBOARDS ===
